@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Web Assignement one</title>
+
+</head>
+
+<body>
+    <header>
+<h1>This is the first header line for this Assignement</h1>
+</header>
+<p>I had assignement which i had assumed first as I had to go on shoppin</p>
+<a href="https://github.com/PLP-WebTechnologies/safaricom-hook-introduction-to-html-week-1-kelvinbarmen/blob/main/README.md?plain=1" ></a>Is the link to that assignment </a>
+<img src="itemlist.jpg" alt="List of items that I bought">
+<ul>
+    <li>Oranges</li>
+    <li>Tomatoes</li>
+</ul>
+<ol>
+    <li>Sukuma Wiki</li>
+    <li>Cabbage</li>
+</ol>
+
+
+
+</body>
+<footer>
+    <p>Thank you for teaching me how to do it</p>
+</footer>
+
+</html>
